@@ -1,6 +1,7 @@
 # VBA-challenge GW Boot Camp VBA Homework
 
-Sub VBAChallenge()
+
+Sub VBA-Challenge()
 
     For Each ws In Worksheets
     
